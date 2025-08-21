@@ -15,11 +15,15 @@ This project is part of my learning journey with Swift and Firebase integration.
 ---
 
 ## 📂 Project Structure
-Swift-DB-Login-Learn/  
-├── Swift-DB-Login-Learn/     # Swift source files, assets, storyboards  
-├── Swift-DB-Login-Learn.xcodeproj/   # Xcode project configuration  
-├── .gitignore                # Ignored files (build, Firebase plist, etc.)  
-└── README.md                 # Project documentation  
+
+| Path                              | Description                                |
+|-----------------------------------|--------------------------------------------|
+| Swift-DB-Login-Learn/             | Swift source files, assets, storyboards     |
+| Swift-DB-Login-Learn.xcodeproj/   | Xcode project configuration                 |
+| .gitignore                        | Ignored files (build, Firebase plist, etc.) |
+| README.md                         | Project documentation                       |
+
+
 
 ---
 
